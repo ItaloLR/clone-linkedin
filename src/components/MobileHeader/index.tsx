@@ -1,11 +1,13 @@
 import React from 'react';
 
-import { Container } from './styles';
+import { Container, ProfileCircle, SearchInput, MessageIcon } from './styles';
 
 const MobileHeader: React.FC = () => {
   return (
     <Container>
         <ProfileCircle src="https://github.com/ItaloLR.png" />
+        <SearchInput placeholder="Pesquisar" />
+        <MessageIcon />
     </Container>
   );
 };
