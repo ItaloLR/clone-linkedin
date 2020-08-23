@@ -34,8 +34,8 @@ UI Clone - LinkedIn Feed
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/ItaloLR/clone-linkedin/blob/master/LICENSE) for more information.
 
-## Participants
+## :trophy: Participants
 
-[<img src="https://avatars1.githubusercontent.com/u/29109541?s=460&u=44e390423705db88b1da3ca17d2487ab1a756521&v=4" width="75px;"/>](https://github.com/ItaloLR)
+[<img src="https://avatars1.githubusercontent.com/u/29109541?s=460&u=44e390423705db88b1da3ca17d2487ab1a756521&v=4" width="80px;"/>](https://github.com/ItaloLR)
 
 [Italo Lima Ribeiro](https://github.com/ItaloLR)
